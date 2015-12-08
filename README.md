@@ -10,10 +10,13 @@
  - Revocatorio para Nicolas Maduro.
  - Liberación de presos politicos.
  - Despolitización de instituciones (con precedencia en la fuerza armada).
+ - Hacer contraloría a los ministerios y llamarlos a presentar su respectivo "Memoria y cuenta" (Auditar en caso de percibir irregularidades y tomar las medidas jurídicas pertinentes). 
+ - Revisar gestión de los viceministerios creados a lo largo de estos años y si todavía es pertinente su existencia (Por ejemplo el de la "Suprema Felicidad").
  - Sacar a cuanto Cubano esté en algun cargo político.
+ - Revisar situación fronteriza e investigar casos de tráfico de alimentos auspiciados/asistidos por militares venezolanos.
  - Eliminación de la Ley Resorte. (que vuelva el 4to poder, para poner los otros 3 a derecho)
    - Despolitizacion de los puertos. No mas mafias para importar.
- - Revisión a la constitución nacional
+ - Revisión a la constitución nacional.
    - Reducir el mandato presidencial a 4 años.
    - Solo re-elegible 2 veces.
    - Renombrar el país a "República de Venezuela".
@@ -36,14 +39,15 @@
 
 ## Acciones/Cambios Sociales
 > Que planes sociales deben mantenerse, re-enforzarse, eliminarse
-
- - Revisión de presupuestos para la educacion a todos los niveles.
+ - Revisión del presupuesto que maneja cada programa social, hacer contraloría a los mismos partiendo desde su lanzamiento a la fecha actual.
+ - Replantear políticas y condiciones para ser partícipe de los programas sociales - estipular formas de retribución al estado por parte del beneficiado (Por ejemplo el caso de la "Gran Misión Vivienda).
+  - Revisión de presupuestos para la educacion a todos los niveles.
  
 ## Acciones/Cambios Judiciales
  - Investigación sobre nacionalidad de Nicolas Maduro (destituirlo sin necesidad de revocatorio)
  - Expeditar investigaciones y casos relacionados a la impunidad que aun disfrutan los asesinos de nuestros protestantes.
  - Abrir investigaciones y colaborar con organismos internacionales anti-droga.
- - Abrir investigaciones de corrupción. *(De donde salen los billones de la familia Chavez? Exprópiense!)*
+ - Abrir investigaciones de casos relacionados con corrupción. *(De donde salen los billones de la familia Chavez? Exprópiense!)*
  - Reforma policial.
  - Revisión del sistema penal.
  - Plan integral de seguridad y desarme o mejor regulacion de armamento.
